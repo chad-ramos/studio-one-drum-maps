@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+	<Music.PitchName pitch="83" name="Splash Main Hit" color="FF51D361"/>
+	<Music.PitchName pitch="82" name="Splash Choke" color="FF51D361"/>
+	<Music.PitchName pitch="77" name="China Choke" color="FF5C00FF"/>
+	<Music.PitchName pitch="76" name="China Main Hit" color="FF5C00FF"/>
+	<Music.PitchName pitch="74" name="Ride Bell" color="FFBC2807"/>
+	<Music.PitchName pitch="73" name="Ride Crash" color="FFBC2807"/>
+	<Music.PitchName pitch="72" name="Ride Tip" color="FFBC2807"/>
+	<Music.PitchName pitch="69" name="Crash R Choke" color="FFFFAC0D"/>
+	<Music.PitchName pitch="67" name="Crash R Crash" color="FFFFAC0D"/>
+	<Music.PitchName pitch="64" name="Crash L Choke" color="FFFFAC0D"/>
+	<Music.PitchName pitch="62" name="Crash L Crash" color="FFFFAC0D"/>
+	<Music.PitchName pitch="58" name="Hat Open3" color="FFB03248"/>
+	<Music.PitchName pitch="56" name="Hat Open2" color="FFB03248"/>
+	<Music.PitchName pitch="54" name="Hat Open1" color="FFB03248"/>
+	<Music.PitchName pitch="53" name="Hat Open0" color="FFB03248"/>
+	<Music.PitchName pitch="48" name="Hat Closed Loose" color="FFB03248"/>
+	<Music.PitchName pitch="47" name="Hat Closed" color="FFB03248"/>
+	<Music.PitchName pitch="45" name="Hat Tight" color="FFB03248"/>
+	<Music.PitchName pitch="44" name="Hat Ching" color="FFB03248"/>
+	<Music.PitchName pitch="43" name="Hat Pedal Chick" color="FFB03248"/>
+	<Music.PitchName pitch="39" name="Floor Tom 2" color="FFA63065"/>
+	<Music.PitchName pitch="37" name="Floot Tom 1" color="FFA63065"/>
+	<Music.PitchName pitch="33" name="Rack Tom" color="FFA63065"/>
+	<Music.PitchName pitch="30" name="Sn Side Stick" color="FF2FB1FF"/>
+	<Music.PitchName pitch="29" name="Sn Off" color="FF2FB1FF"/>
+	<Music.PitchName pitch="28" name="Sn Ruff" color="FF2FB1FF"/>
+	<Music.PitchName pitch="27" name="Sn Flam" color="FF2FB1FF"/>
+	<Music.PitchName pitch="26" name="Sn Hit" color="FF2FB1FF"/>
+	<Music.PitchName pitch="24" name="Kick" color="FF51D361"/>
+</Music.PitchNameList>
