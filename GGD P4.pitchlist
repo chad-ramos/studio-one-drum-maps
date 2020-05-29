@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Music.PitchNameList>
+	<Music.PitchName pitch="29" name="Stick Click"/>
+	<Music.PitchName pitch="24" name="Kick"/>
+	<Music.PitchName pitch="19" name="Snare Sidestick"/>
+	<Music.PitchName pitch="20" name="Snare Ruff"/>
+	<Music.PitchName pitch="21" name="Snare Wires Off"/>
+	<Music.PitchName pitch="22" name="Snare Flam"/>
+	<Music.PitchName pitch="23" name="Snare Hit"/>
+	<Music.PitchName pitch="25" name="RT 1"/>
+	<Music.PitchName pitch="26" name="RT 2"/>
+	<Music.PitchName pitch="27" name="FT 1"/>
+	<Music.PitchName pitch="28" name="FT 2"/>
+	<Music.PitchName pitch="30" name="Hats Tip Tight"/>
+	<Music.PitchName pitch="31" name="Hats Edge Tight"/>
+	<Music.PitchName pitch="32" name="Hats Tip Closed"/>
+	<Music.PitchName pitch="33" name="Hats Edge Closed"/>
+	<Music.PitchName pitch="34" name="Hats Open 1"/>
+	<Music.PitchName pitch="35" name="Hats Open 2"/>
+	<Music.PitchName pitch="36" name="Hats Open 3"/>
+	<Music.PitchName pitch="37" name="Hats Pedal"/>
+	<Music.PitchName pitch="38" name="Hats Ching"/>
+	<Music.PitchName pitch="39" name="Hats CC"/>
+	<Music.PitchName pitch="40" name="Rid Bell"/>
+	<Music.PitchName pitch="41" name="Ride"/>
+	<Music.PitchName pitch="42" name="China Hit"/>
+	<Music.PitchName pitch="43" name="China Choke"/>
+	<Music.PitchName pitch="44" name="Crash Main L - Hit"/>
+	<Music.PitchName pitch="45" name="Crash Main L - Choke"/>
+	<Music.PitchName pitch="46" name="Crash Wide L - Hit"/>
+	<Music.PitchName pitch="47" name="Crash Wide L - Choke"/>
+	<Music.PitchName pitch="48" name="Crahs Main R - Hit"/>
+	<Music.PitchName pitch="49" name="Crahs Main R - Choke"/>
+	<Music.PitchName pitch="50" name="Splash L - Hit"/>
+	<Music.PitchName pitch="51" name="Splash L - Choke"/>
+	<Music.PitchName pitch="52" name="Splash R - Hit"/>
+	<Music.PitchName pitch="53" name="Splash R - Choke"/>
+	<Music.PitchName pitch="54" name="Mini Hats"/>
+	<Music.PitchName pitch="55" name="Stack"/>
+</Music.PitchNameList>
